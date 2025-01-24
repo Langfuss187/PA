@@ -1,7 +1,5 @@
 package org.pa.fobidb;
 
-//Test
-
 import org.pa.fobidb.teacher.Teacher;
 
 import org.springframework.boot.SpringApplication;
